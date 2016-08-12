@@ -79,11 +79,11 @@
             <div class="header_bottom">
                 <div class="menu">
                     <ul>
-                        <li class="active"><a href="index.html">Trang Chủ</a></li>
+                        <li class="active"><a href="Default.aspx">Trang Chủ</a></li>
                         <li><a href="about.html">Sản Phẩm</a></li>
                         <li><a href="delivery.html">Đặt Hàng</a></li>
                         <li><a href="news.html">Giới Thiệu</a></li>
-                        <li><a href="contact.html">Liên Hệ</a></li>
+                        <li><a href="Contacts.aspx">Liên Hệ</a></li>
                         <div class="clear"></div>
                     </ul>
                 </div>
@@ -160,7 +160,7 @@
                 </div>
             </div>
         <div class="copy_right">
-            <p>Website bán hàng môn điện toán đám mây  <a href="http://w3layouts.com">Link trang web minh :)</a> </p>
+            <p>Webiste FPT Polytechnic  <a href="Default.aspx"> Home Shoppe</a> </p>
         </div>
     </div>
     <script type="text/javascript">
