@@ -106,7 +106,7 @@
 						</p>
 					</div>
 					<div class="add-cart">
-						<h4><a href="preview.html">Thêm vào rỏ</a></h4> </div>
+						<h4><a href="Info.aspx">Thêm vào rỏ</a></h4> </div>
 					<div class="clear"></div>
 				</div>
 			</div>
@@ -120,7 +120,7 @@
 						</p>
 					</div>
 					<div class="add-cart">
-						<h4><a href="preview.html">Thêm vào rỏ</a></h4> </div>
+						<h4><a href="Info.aspx">Thêm vào rỏ</a></h4> </div>
 					<div class="clear"></div>
 				</div>
 			</div>
@@ -134,7 +134,7 @@
 						</p>
 					</div>
 					<div class="add-cart">
-						<h4><a href="preview.html">Thêm vào rỏ</a></h4> </div>
+						<h4><a href="Info.aspx">Thêm vào rỏ</a></h4> </div>
 					<div class="clear"></div>
 				</div>
 			</div>
@@ -148,7 +148,7 @@
 						</p>
 					</div>
 					<div class="add-cart">
-						<h4><a href="preview.html">Thêm vào rỏ</a></h4> </div>
+						<h4><a href="Info.aspx">Thêm vào rỏ</a></h4> </div>
 					<div class="clear"></div>
 				</div>
 			</div>
@@ -173,7 +173,7 @@
 						</p>
 					</div>
 					<div class="add-cart">
-						<h4><a href="preview.html">Thêm vào rỏ</a></h4> </div>
+						<h4><a href="Info.aspx">Thêm vào rỏ</a></h4> </div>
 					<div class="clear"></div>
 				</div>
 			</div>
@@ -187,7 +187,7 @@
 						</p>
 					</div>
 					<div class="add-cart">
-						<h4><a href="preview.html">Thêm vào rỏ</a></h4> </div>
+						<h4><a href="Info.aspx">Thêm vào rỏ</a></h4> </div>
 					<div class="clear"></div>
 				</div>
 			</div>
@@ -201,7 +201,7 @@
 						</p>
 					</div>
 					<div class="add-cart">
-						<h4><a href="preview.html">Thêm vào rỏ</a></h4> </div>
+						<h4><a href="Info.aspx">Thêm vào rỏ</a></h4> </div>
 					<div class="clear"></div>
 				</div>
 			</div>
@@ -215,7 +215,7 @@
 						</p>
 					</div>
 					<div class="add-cart">
-						<h4><a href="preview.html">Thêm vào rỏ</a></h4> </div>
+						<h4><a href="Info.aspx">Thêm vào rỏ</a></h4> </div>
 					<div class="clear"></div>
 				</div>
 			</div>

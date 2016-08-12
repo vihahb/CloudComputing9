@@ -24,8 +24,8 @@
                 <div class="account_desc">
                     <ul>
                         <li><a href="#">Đăng nhập</a></li>
-                        <li><a href="#">Giới thiệu</a></li>
-                        <li><a href="#">Liên hệ</a></li>
+                        <li><a href="About.aspx">Giới thiệu</a></li>
+                        <li><a href="Contacts.aspx">Liên hệ</a></li>
                         <li><a href="#">Tư vấn</a></li>
                         <li><a href="#">Đăng ký</a></li>
                     </ul>
@@ -34,7 +34,7 @@
             </div>
             <div class="header_top">
                 <div class="logo">
-                    <a href="index.html">
+                    <a href="Default.aspx">
                         <img src="images/logo.png" alt="" /></a>
                 </div>
                 <div class="cart">
@@ -80,9 +80,9 @@
                 <div class="menu">
                     <ul>
                         <li class="active"><a href="Default.aspx">Trang Chủ</a></li>
-                        <li><a href="about.html">Sản Phẩm</a></li>
-                        <li><a href="delivery.html">Đặt Hàng</a></li>
-                        <li><a href="news.html">Giới Thiệu</a></li>
+                        <li><a href="Product.aspx">Sản Phẩm</a></li>
+                        <li><a href="Info.aspx">Đặt Hàng</a></li>
+                        <li><a href="About.aspx">Giới Thiệu</a></li>
                         <li><a href="Contacts.aspx">Liên Hệ</a></li>
                         <div class="clear"></div>
                     </ul>
